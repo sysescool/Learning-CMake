@@ -1,0 +1,8 @@
+// the configured options and settings for Tutorial
+// TODO 10: Define Tutorial_VERSION_MAJOR and Tutorial_VERSION_MINOR
+// 本教程使用的配置选项和设置
+// TODO 10: 使用 #define 定义 Tutorial_VERSION_MAJOR 和 Tutorial_VERSION_MINOR
+//
+// @Tutorial_VERSION_MAJOR@通常是一个占位符，用于在构建过程中由CMake自动替换为实际的值。
+#define Tutorial_VERSION_MAJOR @Tutorial_VERSION_MAJOR@
+#define Tutorial_VERSION_MINOR @Tutorial_VERSION_MINOR@

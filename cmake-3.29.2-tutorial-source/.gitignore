@@ -1,0 +1,8 @@
+*_build
+*_install
+Step12/debug/*
+Step12/release/*
+Step12/_CPack_Packages/*
+Step12/Tutorial-1.0-Linux.sh*
+Step12/Tutorial-1.0-Linux.tar.gz
+Step12/Tutorial-1.0-Linux.tar.Z
